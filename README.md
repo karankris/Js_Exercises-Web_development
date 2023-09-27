@@ -1,2 +1,2 @@
 # JS_FormValidation-Practice1
-FormValidation
+FormValidation//->Email, Phoneno, Password, Confirm Password. 
