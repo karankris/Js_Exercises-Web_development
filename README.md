@@ -13,7 +13,7 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 - Password and ConfirmPassword using If-Else and Relational operators.
   
 ## Note
-     Folder named as Javascript for progress-1 and the javascript code is done in same html file by using script tag.
+     Folder named as Javascript for progress-1 and the javascript code is done in the same html file using script tag.
      From progress-2 there will will be seperate js file for Javascript code
      
 ### Topics covered in progress-2 (29-09-2023)
