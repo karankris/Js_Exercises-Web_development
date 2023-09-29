@@ -1,4 +1,4 @@
-# My JavaScript Learning Repository
+# My JavaScript Learning Repository JAVASCRIPT
 
 Welcome to my repository where I'm learning JavaScript.
 
