@@ -14,7 +14,8 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
   
 ## Note
      Folder named as Javascript for progress-1 and the javascript code is done in same html file by using script tag.
-
+     From progress-2 there will will be seperate js file for Javascript code
+     
 ### Topics covered in progress-2 (29-09-2023)
 - Username validation-1: Removal of white space in the beginning and in end of the input by using trim() function.
 - Username validation-2: Username should be more than two characters or entites it is verified by using length function.
