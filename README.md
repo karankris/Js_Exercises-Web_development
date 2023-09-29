@@ -13,5 +13,5 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 - Password and ConfirmPassword using If-Else and Relational operators.
 
 ### Topics covered in progress-2 (29-09-2023)
--Username validation-1: Removal of white space in the beginning and in end of the input by using trim() function.
--Username validation-2: Username should be more than two characters or entites it is verified by using length function.
+- Username validation-1: Removal of white space in the beginning and in end of the input by using trim() function.
+- Username validation-2: Username should be more than two characters or entites it is verified by using length function.
