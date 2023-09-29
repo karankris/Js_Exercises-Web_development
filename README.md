@@ -8,9 +8,9 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 
 ### Topics covered in progress-1 (27-09-2023)
 
--Email validation using regexp(regular expression) format.
--PhoneNo validation using regex format.
--Password and ConfirmPassword using If-Else and Relational operators.
+- Email validation using regexp(regular expression) format.
+- PhoneNo validation using regex format.
+- Password and ConfirmPassword using If-Else and Relational operators.
 
 ### Topics covered in progress-2 (29-09-2023)
 -Username validation-1: Removal of white space in the beginning and in end of the input by using trim() function.
