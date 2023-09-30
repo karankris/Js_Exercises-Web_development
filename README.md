@@ -24,7 +24,8 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 ### Topics covered in progress-3 (30-09-2023)
    I have Learnt some of the String built-in functions :
 - **Split()** :The function which i have used in my code efficiently divides a given string based on the whitespace characters, allowing you to extract and manipulate individual elements of the input text.
-          Example: Username=Karan R
+
+ Example: Username=Karan R
           result =Username.split(" ")
           #### result = ["Karan", "R"]
           In the provided example, the Split(" ") function splits the input string into a list of words, with each word as a separate element. This can be immensely useful in various 
