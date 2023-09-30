@@ -20,3 +20,15 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 ### Topics covered in progress-2 (29-09-2023)
 - Username validation-1: Removal of white space in the beginning and in end of the input by using trim() function.
 - Username validation-2: Username should be more than two characters or entites it is verified by using length function.
+
+### Topics covered in progress-3 (30-09-2023)
+   I have Learnt some of the String built-in functions :
+- **Split()**:The function which i have used in my code efficiently divides a given string based on the whitespace characters, allowing you to extract and manipulate individual elements of the input text.
+          Example: Username=Karan R
+          result =Username.split(" ")
+          #### result = ["Karan", "R"]
+          In the provided example, the Split(" ") function splits the input string into a list of words, with each word as a separate element. This can be immensely useful in various 
+          scenarios, such as text processing, parsing, and data extraction.
+  
+- **tolowerCase() toUpperCase()**: Both functions are used to convert to lower and upper case respectively.
+- **replace()**:is an inbuilt method in JavaScript that is used to replace a part of the given string with another string.
