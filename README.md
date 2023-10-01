@@ -31,5 +31,5 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
           In the provided example, the Split(" ") function splits the input string into a list of words, with each word as a separate 
           element. This can be immensely useful in various scenarios, such as text processing, parsing, and data extraction.
   
-- **`tolowerCase(), toUpperCase()`** : Both functions are used to convert to lower and upper case respectively.
+- **`tolowerCase(),toUpperCase()`** : Both functions are used to convert to lower and upper case respectively.
 - **`replace()`** :is an inbuilt method in JavaScript that is used to replace a part of the given string with another string.
