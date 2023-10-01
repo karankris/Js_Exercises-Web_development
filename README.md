@@ -27,7 +27,7 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 
         Example: Username=Karan R
              result =Username.split(" ")
-             ### result = ["Karan", "R"]
+             ###result = ["Karan", "R"]
           In the provided example, the Split(" ") function splits the input string into a list of words, with each word as a separate 
           element. This can be immensely useful in various scenarios, such as text processing, parsing, and data extraction.
   
