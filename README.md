@@ -26,8 +26,8 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 - **Split()** : The function which i have used in my code efficiently divides a given string based on the whitespace characters, allowing you to extract and manipulate individual elements of the input text.
 
         Example: Username=Karan R
-  Function used = Username.split(" ")
-             result = ["Karan", "R"]
+        Function used = Username.split(" ")
+        result = ["Karan", "R"]
           In the provided example, the Split(" ") function splits the input string into a list of words, with each word as a separate 
           element. This can be immensely useful in various scenarios, such as text processing, parsing, and data extraction.
   
