@@ -41,5 +41,5 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
   - Find odd or even number in a given range using for loop
   - Find regional and non-regional language from a given array
   - **`indexOF()`** Find the dupicate and orginal elements from a given array . `indexOf()` function which is used to write the conditions based upon the index of an array. 
-  - **`includes()`** Find the dupicate and orginal elements from a given array. `includes()` function which is used to make the condtion based upon the boolean values (**True/Flase**).
+  - **`includes()`** Find the dupicate and orginal elements from a given array. `includes()` function which is used to make the condtion based upon the boolean values (**True/False**).
   - **`push() & pop()`** It is used in the programs to add or remove any element from the given array based upon the user-defined condition's.
