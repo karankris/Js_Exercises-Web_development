@@ -16,10 +16,12 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 ## Note
      Folder named as Javascript for progress-1 and the javascript code is done in the same html file using script tag.
      From progress-2 there will be seperate js file for Javascript code
+
      
 ### Topics covered in progress-2 (29-09-2023)
 - Username validation-1: Removal of white space in the beginning and in end of the input by using `trim()` function.
 - Username validation-2: Username should be more than two characters or entites it is verified by using `length` function.
+
 
 ### Topics covered in progress-3 (30-09-2023)
    I have Learnt some of the String built-in functions :
@@ -36,10 +38,18 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 
 
 ### Topics covered in progress-4 (04-10-2023)
-  In this directory, it consistes of various programs using for loop and some of the new build-in functions which i have learnt:
+  In this directory, it consistes of various programs using for loop and some of the new built-in functions which i have learnt:
   
   - Find odd or even number in a given range using for loop
   - Find regional and non-regional language from a given array
   - **`indexOF()`** Find the dupicate and orginal elements from a given array . `indexOf()` function which is used to write the conditions based upon the index of an array. 
   - **`includes()`** Find the dupicate and orginal elements from a given array. `includes()` function which is used to make the condtion based upon the boolean values (**True/False**).
   - **`push() & pop()`** It is used in the programs to add or remove any element from the given array based upon the user-defined condition's.
+
+
+### Topics covered in progress-5 (06-10-2023)
+ In this directory, it consists of some of the basic programs using built-in functions in Javascript:
+ 
+ - **`parseInt()`:** which is used to convert string datatype to integer datatype. It especially used in basic **calculator** program.
+ - **`substring()`:** it is used to print a string till the user-defined length. In realtime it used in many **E-commerce websites** to make the product descriptions even more shorter.
+ - **`shift() & unshift()`:** it is used to **remove(`shift()`)** or **add(`unshift()`)** any element from the starting index of an array
