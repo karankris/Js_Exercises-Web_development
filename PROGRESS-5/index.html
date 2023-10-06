@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/8085d71614.js" crossorigin="anonymous"></script>
+    <title>Basics</title>
+  </head>
+  <body>
+   <section id="fo" >
+    <div class="container co w-100 ">
+      <div class="row justify-content-center">
+        <div class=" fb col-12 col-sm-1 col-md-3 col-lg-12 col-xl-12 justify-content-center d-flex">
+    <form>
+        <h2 class="header mb-2 mt-2">BASIC-CONCEPTS</h2>
+        <div class="form-group fg w-80 mt-5">
+          <div class="form-group fg w-80">
+            <label class="hd">Sample Inputs</label><i class="fa-regular fa-circle-check lg-style ml-2" id="lgo3" style="display: none;"></i>
+            <input type="text" class="form-control" id="ip" onclick="validateLoginForm()">
+          </div>   
+          <div class="btnn text-center ">
+            <button type="button" class="btn btn-primary mt-5" onclick="validateLoginForm()">Submit</button>
+          </div>
+        </div>   
+      </form>
+    </div>
+    </div>
+    </div>
+   </section>
+   <script>
+    function validateLoginForm(){
+      
+//<<------------------ Data type conversion parseInt() simple addition ---------------->>
+            // var a='10',b=20;
+            // var c= parseInt(a)+b;
+            // console.log(c)
+
+     // with using using array
+          var num=["10","20",30]; 
+          var tot=0;   
+          for(var i=0; i<num.length;i++)
+          {
+           tot +=parseInt(num[i]);
+              
+          }
+          console.log("The total value after addition is: ",tot);
+
+//<<-------------------- substring() is used to print a string till the user-defined length ---------------->>
+
+          var content ="Karan is studing in IFET college of engineering and he is living in villupuram";
+          console.log(content.substr(0,25),".........");
+      
+//<<--------------------- shift() and unshfit() ----------------------------->>
+
+   // shift() removes the element from the starting index of an array
+          var arr1=[1,2,3];
+          arr1.shift();
+            console.log("Array after shifting: ",arr1)
+
+    // unshift() add the element at the starting index of an array
+            var arr=[1,2,3];
+             arr.unshift(-1,0); // User can add more than one element in unshifting function
+            console.log("Array after unshifting: ",arr)
+       }
+
+   </script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+  </body>
+</html> 
+
