@@ -14,9 +14,7 @@ In this repository, I will be documenting my journey as I learn JavaScript. This
 - Password and ConfirmPassword using If-Else and Relational operators.
   
 ## Note
-     Folder named as Javascript for progress-1 and the javascript code is done in the same html file using script tag.
-     From progress-2 there will be seperate js file for Javascript code
-
+     Folder named as Javascript for progress-1 
      
 ### Topics covered in progress-2 (29-09-2023)
 - Username validation-1: Removal of white space in the beginning and in end of the input by using `trim()` function.
