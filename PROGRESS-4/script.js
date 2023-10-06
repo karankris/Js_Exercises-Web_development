@@ -110,3 +110,21 @@
       //     }
 
     }
+// <!-- //Notes for javascript -->
+// <!-- // console.log(" email and password",document.getElementById("email").value); -->
+// <!-- // function getCountry(){
+//   //     console.log(" country");
+//   // }
+//   // function trigger()
+//   // {
+//   //     console.log(" username");
+//   // }
+//   // onclick
+//   // onchange
+//   // onkeydown
+//   // onkeyup
+//   // onmouseover
+//   // onkeypress
+//   // onblur
+// // declerations
+// // var let const -->
